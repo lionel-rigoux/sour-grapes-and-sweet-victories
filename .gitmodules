@@ -1,0 +1,6 @@
+[submodule "pretty-plot"]
+	path = code/+pretty
+	url = https://github.com/lionel-rigoux/pretty-plot.git
+[submodule "VBA-toolbox"]
+	path = code/VBA-toolbox
+	url = https://github.com/MBB-team/VBA-toolbox.git
